@@ -1,3 +1,5 @@
-let x = "5";
-let y = 5;
-console.log(x + y);
+console.log(a);
+var a = 6;
+let b = 6;
+console.log(b);
+
